@@ -1,0 +1,57 @@
+/*
+* {
+    background-color: lightslategrey;
+}
+*/
+
+/* body {
+    background-color: lightslategrey;
+}
+
+div * {
+    background-color: pink;
+}
+
+p * {
+    background-color: lightblue;
+   
+}
+
+p.error{
+    color: crimson;
+}
+p.success.feedback{
+    color: green;
+    
+    border-width: 2px;
+    border-style: solid;
+    border-color: gold;
+    border:2px gold;
+}
+
+#container{
+    background-color: aquamarine;
+} */
+
+/*div p{
+    background-color: yellow;
+} */
+
+#container >p{
+    background-color: yellow;
+}
+
+#container >p span{
+   font-weight: bold;
+}
+
+a[ href="www.google.com"]{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a[ href$="file.pdf"] {
+    font-weight: bold;
+    font-size: 20px;
+    color:green;
+}
