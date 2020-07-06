@@ -1,0 +1,22 @@
+div.imgpertama{
+    background-color: lightskyblue;
+    padding: 20px ;
+    border:10px solid red;
+    margin-left:20px;
+    display: block;
+}
+div.imgkedua{
+    background-color: lightskyblue;
+    padding: 20px;
+    border:10px solid red;
+    margin-left:200px;
+    display: block;
+}
+div.imgketiga{
+    background-color: lightskyblue;
+    padding: 20px;
+    border:10px solid red;
+    margin-left:300px;
+    display: block;
+}
+
